@@ -13,7 +13,7 @@ five Mediterranean plant species in nine Catalonian study sites since
 
 A relational database was designed to store LFMC data in a reliable, structured, and dynamic format, ensuring long-term integrity. Additionally, this approach provides a fast and flexible access to data, while maintaining the database in a consistent state. The logical relational model for LFMC database is shown below.
 
-![](SPIF_LogicalSchema.png){width=130%}
+![](SPIF_LogicalSchema.png)
 
 ## Package installation
 
