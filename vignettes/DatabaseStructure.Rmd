@@ -9,11 +9,6 @@ vignette: >
   %\VignetteEncoding{UTF-8}
 ---
 
-## Database design and structure 
-
-![](SPIF_LogicalSchema.png){width=130%}
-
-
 ## Data dictionary
 
 The dictionary contains a description of the data included in the SPIF_LFMC database.  
